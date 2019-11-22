@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "flex-container": {
+            "context": "div"
+        },
+        "flex-item": {
+            "context": "div"
+        }
+    }
+}
